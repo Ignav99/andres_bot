@@ -1,0 +1,17 @@
+# Entorno virtual
+env/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configs de editor
+.vscode/
+
+# Tests
+.pytest_cache/
+
+# Entorno
+.env
+.env.local
